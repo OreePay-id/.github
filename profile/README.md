@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<img width="1254" height="1254" alt="oreepay-logo" src="https://github.com/user-attachments/assets/5eea2dea-a31e-4560-abd0-336a64c5a640" />" alt="OreePay Banner" width="100%" />
+  <img src="./oreepay-logo.jpeg" alt="OreePay Banner" width="100%" />
 
   # ⚡ OreePay Technologies
   ### *Seamless Transaction*
