@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./oreepay-logo.jpeg" alt="OreePay Logo" width="220" />
+  <img src="./savinpay-moto.png" alt="SavinPay" width="220" />
 
-  # ⚡ OreePay Technologies
+  # ⚡ SavinPay Technologies
   ### *Seamless Transaction*
 
   [![Tagline](https://img.shields.io/badge/Tagline-Seamless%20Transaction-0ea5e9.svg?style=flat-square)]()
@@ -17,9 +17,9 @@
 
 ---
 
-### 🌐 Tentang OreePay
+### 🌐 Tentang SavinPay
 
-**OreePay** adalah ekosistem infrastruktur pembayaran tagihan dan agregator PPOB (Payment Point Online Bank) terpadu. Berpegang pada prinsip **Seamless Transaction**, kami memangkas friksi integrasi dan kegagalan sistem bagi mitra bisnis, agen, dan aplikasi fintech melalui API modern dengan latensi ultra-rendah.
+**SavinPay** merupakan ekosistem infrastruktur pembayaran tagihan dan agregator PPOB (Payment Point Online Bank) terpadu. Berpegang pada prinsip **Seamless Transaction**, kami memangkas friksi integrasi dan kegagalan sistem bagi mitra bisnis, agen, dan aplikasi fintech melalui API modern dengan latensi ultra-rendah.
 
 - ⚡ **Seamless Processing:** Arsitektur asinkron berbasis *event-driven* dan *message queues* untuk eksekusi transaksi instan tanpa hambatan.
 - 🔒 **Zero-Discrepancy Ledger:** Sistem pencatatan saldo berbasis *double-entry bookkeeping* mutlak dengan *distributed locking* dan *idempotency*.
